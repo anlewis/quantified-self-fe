@@ -414,7 +414,7 @@
 	  if (host === "localhost" || host === "127.0.0.1") {
 	    return "http://localhost:3000";
 	  } else {
-	    return "qs-rails.herokuapp.com";
+	    return "https://qs-rails.herokuapp.com";
 	  }
 	};
 
